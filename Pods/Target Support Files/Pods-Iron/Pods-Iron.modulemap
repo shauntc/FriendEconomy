@@ -1,0 +1,6 @@
+framework module Pods_Iron {
+  umbrella header "Pods-Iron-umbrella.h"
+
+  export *
+  module * { export * }
+}
